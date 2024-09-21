@@ -1,8 +1,8 @@
 #map-title{
   font-family:"Bebas Neue", sans-serif;
   color: hotpink;
-  /* mouse over link */
-a:hover {
-  color: red;
+}
+div:hover {
+  color: white;
 }
 
